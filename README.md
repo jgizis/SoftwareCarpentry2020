@@ -4,3 +4,5 @@ All the notebooks are typed in by me based on instructions, so I don't think I c
 
 This is actually Astronomy Carpentry.  
 
+See https://allendowney.github.io/AstronomicalData/index.html for the original !!!
+
